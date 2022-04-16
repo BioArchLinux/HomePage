@@ -17,7 +17,7 @@ theme = "hugo-theme-archbio"
     # Tell me who you're
     location = ""
     site_description = ""
-    copyright  = "Powered by ArchLinux. Theme by [hugo-theme-archbio](https://github.com/BioArchLinux/hugo-theme-archbio)."
+    copyright  = "Powered by ArchLinux. Theme by [hugo-theme-archbio](https://github.com/BioArchLinux/hugo-theme-archbio). Sponered by [xTom](https://v.ps/)"
 
     # Format dates with Go's time formating
     date_format = "2006-01-02"
