@@ -5,3 +5,4 @@ hugo -D
 git add .
 git commit -m "update"
 git push
+rm public/post/index.html
