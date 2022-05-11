@@ -11,7 +11,7 @@ theme = "hugo-theme-archbio"
 
 
 [permalinks]
-    post = "/post/:slug"
+    post = "/:year/:month/:day/:slug"
 
 [params]
     # Tell me who you're
@@ -83,6 +83,6 @@ theme = "hugo-theme-archbio"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = false
-    tags = false
-    tag_cloud = false
+    categories = true
+    tags = true
+    tag_cloud = true
