@@ -11,7 +11,7 @@ theme = "hugo-theme-archbio"
 
 
 [permalinks]
-    post = "/:slug"
+    post = "/post/:slug"
 
 [params]
     # Tell me who you're
