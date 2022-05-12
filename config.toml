@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://bioarchlinux.org/"
 languageCode = "en-us"
 title = "BioArchLinux"
 # Enable comments by entering your Disqus shortname
