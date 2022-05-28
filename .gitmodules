@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-archbio"]
+	path = themes/hugo-theme-archbio
+	url = git@github.com:BioArchLinux/hugo-theme-archbio.git
