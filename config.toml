@@ -7,9 +7,15 @@ theme = "hugo-theme-bioarchlinux"
 unsafe= true
 
 [[menu.main]]
-  Name = "Download"
-  URL = "https://archlinux.org/download"
-  Title = "Get Arch Linux"
+  Name = "Docker"
+  URL = "https://hub.docker.com/r/bioarchlinux/bioarchlinux"
+  Title = "Get BioArchLinux on docker"
+  weight = 1
+
+[[menu.main]]
+  Name = "WSL"
+  URL = "https://github.com/BioArchLinux/wsl"
+  Title = "Get BioArchLinux on WSL"
   weight = 0
 
 [[menu.main]]
