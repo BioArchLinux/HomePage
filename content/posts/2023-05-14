@@ -1,0 +1,22 @@
+---
+title: "Junest image released"
+date: 2023-05-14T00:00:00Z
+draft: false
+---
+
+Today, we first release our [weekly junest image](https://repo.bioarchlinux.org/junset/), everyone can use it for non-root user on Arch Linux and other non-archlinux distro families.
+
+For using the junest, you can check [the README page of the junest project](https://github.com/BioArchLinux/junest-img).
+
+
+```
+curl -O https://raw.githubusercontent.com/BioArchLinux/junest-img/main/biojunest.sh
+chmod +x biojunest.sh && ./biojunest.sh
+```
+
+Then enjoy it
+
+```
+sudoj pacman -Syu
+sudoj pacman -S foo
+```
