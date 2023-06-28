@@ -1,8 +1,11 @@
 #!/bin/bash
 
+
 git pull
+cd themes/hugo-theme-bioarchlinux/
+git pull
+cd -
 hugo -D
-ln -s /usr/share/lilac/api public/api
 git add .
 git commit -m "update"
 git push
