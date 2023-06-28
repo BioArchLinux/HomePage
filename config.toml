@@ -44,8 +44,8 @@ unsafe= true
 
 [[menu.main]]
   Name = "Packages"
-  URL = "https://github.com/BioArchLinux/Packages"
-  Title = "BioArchLinux Git Repository"
+  URL = "https://bioarchlinux.org/packages"
+  Title = "BioArchLinux Packages"
   weight = -5
 
 [[menu.main]]
